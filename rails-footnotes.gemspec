@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "rails-footnotes"
-  s.version  = "3.6.0"
+  s.version  = "3.6.1"
   s.date     = "2009-05-12"
   s.summary  = "Every Rails page has footnotes that gives information about your application and links back to your editor."
   s.email    = "jose.valim@gmail.com"
